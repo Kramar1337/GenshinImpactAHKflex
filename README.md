@@ -11,13 +11,13 @@ __Что у меня получилось:__
 - Банихоп. А это зачем?
 
 :memo:__Показания к применению:__:memo:
-
+```
 1. Скачать и установить [autohotkey.com](https://www.autohotkey.com)
 
 2. Скачать репозиторий (Code > Download Zip)
 
 3. Запустить "Genshi AHK Flex.ahk"
-
+```
 :musical_keyboard:__Горячие клавиши:__:musical_keyboard:
 - F1 - Карта
 - F2 - Оверлей
