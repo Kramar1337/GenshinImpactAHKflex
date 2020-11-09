@@ -34,7 +34,7 @@ End - Завершить скрипт
 :wrench:__Крутить настройки__:toilet:
 - В трее можно открыть настройки
 
-# Description in english
+# Description
 123
 
 __123:__
