@@ -22,6 +22,8 @@ __Что у меня получилось:__
 
 1. Скачать и установить [autohotkey.com](https://www.autohotkey.com)
 Установка с подвохом, обязательно ставим галочку "Run with UI access"
+
+
 ![hippo](https://media.giphy.com/media/fDxH4OwpwUqOBhJYxV/giphy.gif)
 
 2. Скачать репозиторий (Code > [Download Zip:wheelchair:](https://github.com/Kramar1337/GenshinImpact-AHK-flex/archive/main.zip))
